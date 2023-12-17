@@ -1,5 +1,6 @@
 // @codekit-prepend "/vendor/hammer-2.0.8.js";
 
+
 $( document ).ready(function() {
 
   // DOMMouseScroll included for firefox support
